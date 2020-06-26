@@ -1,0 +1,10 @@
+C:\Users\NASA\source\repos\ObFromClass\ObFromClass\bin\Debug\ObFromClass.exe.config
+C:\Users\NASA\source\repos\ObFromClass\ObFromClass\bin\Debug\ObFromClass.exe
+C:\Users\NASA\source\repos\ObFromClass\ObFromClass\bin\Debug\ObFromClass.pdb
+C:\Users\NASA\source\repos\ObFromClass\ObFromClass\obj\Debug\ObFromClass.csprojAssemblyReference.cache
+C:\Users\NASA\source\repos\ObFromClass\ObFromClass\obj\Debug\ObFromClass.Form1.resources
+C:\Users\NASA\source\repos\ObFromClass\ObFromClass\obj\Debug\ObFromClass.Properties.Resources.resources
+C:\Users\NASA\source\repos\ObFromClass\ObFromClass\obj\Debug\ObFromClass.csproj.GenerateResource.cache
+C:\Users\NASA\source\repos\ObFromClass\ObFromClass\obj\Debug\ObFromClass.csproj.CoreCompileInputs.cache
+C:\Users\NASA\source\repos\ObFromClass\ObFromClass\obj\Debug\ObFromClass.exe
+C:\Users\NASA\source\repos\ObFromClass\ObFromClass\obj\Debug\ObFromClass.pdb

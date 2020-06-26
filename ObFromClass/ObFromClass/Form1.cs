@@ -27,7 +27,11 @@ namespace ObFromClass
 
         private void setStrBtn_Click(object sender, EventArgs e)
         {
-            ob.SetS("A new string");
+            if(ob !=null)
+            {
+                ob.SetS("A new string");
+            }
+            
         }
 
         private void getStrBtn_Click(object sender, EventArgs e)
